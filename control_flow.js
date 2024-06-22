@@ -1,12 +1,23 @@
 // if
 
-var name = "Billy";
+// var name = "Billy";
 
 // if (name === "Billy") {
 // 	// alert("hi Billy!");
 // 	console.log("hi Billy");
 // }
 
+// var name = "himansu";
+
+// if (name === "himansu") {
+// 	console.log("Hii himansu!");
+// }
+
+// var name = null;
+
+// if (name === null) {
+// 	console.log("this is", name);
+// }
 
 // name = "Susy";
 
